@@ -10,4 +10,5 @@
     * Optional: If you want to check the format: see `timesheet/src/test/resources/in/in.csv`
   * Convert to CSV by cell processor using comma separator and double quot (Libre office default).
 * Clone this repo & Run `mvn clean install exec:java -Dexec.mainClass=org.timesheet.Main -Dexec.args="in/in.csv out/out.csv"`.
-* Open `out/out.csv` by cell processor & paste into google doc timesheet. 
+* Open `out/out.csv` by cell processor
+* Copy & Paste the description column into google doc timesheet (empty rows for weekends are handled).
