@@ -2,7 +2,7 @@
 
 Produces list of jira ticket titles for each day. There are empty rows inserted for the weekends, day off,...
 * Why? To avoid manual timesheet creation in the end of the month.
-* Log work in jira tempo every day. In the end of the month generate google doc timesheet.
+* Log work in Jira Tempo every day. In the end of the month generate google doc timesheet.
 
 ## How to start?
 
