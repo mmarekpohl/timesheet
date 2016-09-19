@@ -18,3 +18,4 @@ Produces list of jira ticket titles for each day. There are empty rows inserted 
 
 * Generate working time from-to based on hours in jira.
 * Add note that you entered during "log work" button.
+* ...
